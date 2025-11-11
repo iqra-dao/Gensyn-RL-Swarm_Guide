@@ -9,7 +9,7 @@ Follow the steps below carefully, and you’ll have your node running smoothly �
 ## ⚙️ 1. System Requirements
 
 - Ubuntu 22.04 / 24.04 or macOS  
-- Minimum 2GB RAM, 10GB storage  
+- Minimum 16GB RAM, 100GB storage  
 - Stable Internet connection  
 - VPS Recommended  
 
